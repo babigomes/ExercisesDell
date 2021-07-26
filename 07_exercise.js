@@ -1,0 +1,1 @@
+$('.overlay-video-trigger').removeClass("overlay-video-trigger");

@@ -1,0 +1,10 @@
+a.cta-v2, a.cta-body, a.cta-text :first-child {
+  background-color: #0063D1 !important;
+  border: 1px solid #fff !important;
+  color:#fff !important;
+}
+a.cta-v2, a.cta-body, a.cta-text :last-child {
+  background-color: #fff !important;
+  border: 1px solid #fff !important;
+  color:#0063D1 !important;
+}
